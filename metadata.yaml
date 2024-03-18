@@ -1,5 +1,8 @@
 _repo: Roma-antica-Vol-33-b-Ultimi-splendori-decadenza-e-rovina_73063
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73063-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Barbagallo, Corrado
@@ -17,6 +20,8 @@ creator:
     - https://it.wikipedia.org/wiki/Guglielmo_Ferrero
     - https://en.wikipedia.org/wiki/Guglielmo_Ferrero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73063#Roma-antica-Vol-33-b-Ultimi-splendori-decadenza-e-rovina
 gutenberg_issued: '2024-02-27'
 gutenberg_type: Text
 identifiers:
